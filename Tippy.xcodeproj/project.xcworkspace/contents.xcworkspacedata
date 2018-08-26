@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Tippy.xcodeproj">
+      location = "group:/Users/owen/Desktop/Project_Folder/Tippy/Tippy/SettingsViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
